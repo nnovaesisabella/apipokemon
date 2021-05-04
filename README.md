@@ -19,7 +19,9 @@ Aplicação simples desenvolvida usando Api (https://pokeapi.co/), que exibirá 
 🛠️ Execução do projeto
 
 #clonar projeto use o Git Bash e clone o repositório https://github.com/nnovaesisabella/apipokemon.git
+
 #instale npm i
+
 #execute yarn start 
 
 
